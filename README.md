@@ -1,1 +1,1 @@
-# mipt-python
+# Some projects for MIPT Python lessons
